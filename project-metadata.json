@@ -1,0 +1,17 @@
+{
+  "title": "ZuriZigZag",
+  "img_path": "https://raw.githubusercontent.com/khalilacheche/ZuriZigZag/project-metadata/cover.png",
+  "description": "An itinereary planner for Zurich's public transport system, with a certainty of arrival time.",
+  "tags": [
+    "Software Engineering",
+    "Large Scale Systems"
+  ],
+  "langs": [
+    "Python"
+  ],
+  "frameworks": [
+    "PySpark",
+    "NetworkX"
+  ],
+  "date": "2023-05"
+}
