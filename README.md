@@ -1,4 +1,6 @@
 # Story
+[Demo video](https://www.youtube.com/watch?v=TYbOict2yiI&ab_channel=RuiqiYU)
+
 Have you ever been delayed by public transportation, making you late for important appointments? It's a common inconvenience, and it's what inspired me to work on this project. In a fast-paced world, we rely on navigation systems to get us where we need to be on time. However, these systems often assume that every bus or train will run punctually, which isn't always the case. That's why we developed Zigzag, an innovative solution.
 
 While Google Maps is a fantastic tool, it operates under the assumption that all public transportation will be on time, which, as we all know, isn't always true. This is particularly evident in Switzerland, where even the most efficient systems can face delays. That's where ZuriZigzags comes in.
